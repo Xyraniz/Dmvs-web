@@ -1,172 +1,307 @@
 [
     {
         "id": 1,
-        "name": "Revolver_Default",
-        "rarity": "common",
-        "image": "revolver_default.png"
-    },
-    {
-        "id": 2,
-        "name": "Barrel Gun",
-        "rarity": "common",
-        "image": "barrel_gun.png"
-    },
-    {
-        "id": 3,
         "name": "Flare Gun",
         "rarity": "common",
         "image": "flare_gun.png"
     },
     {
-        "id": 4,
-        "name": "Ribs Gun",
-        "rarity": "common",
-        "image": "ribs_gun.png"
-    },
-    {
-        "id": 5,
-        "name": "Sound Gun",
-        "rarity": "common",
-        "image": "sound_gun.png"
-    },
-    {
-        "id": 6,
-        "name": "Witch Pistol",
-        "rarity": "common",
-        "image": "witch_pitstol.png"
-    },
-    {
-        "id": 7,
-        "name": "Nail Gun",
-        "rarity": "common",
-        "image": "nail_gun.png"
-    },
-    {
-        "id": 8,
+        "id": 2,
         "name": "Injection",
         "rarity": "common",
         "image": "injection.png"
     },
     {
-        "id": 9,
-        "name": "Seagun",
+        "id": 3,
+        "name": "Nail Gun",
         "rarity": "common",
-        "image": "seagun.png"
+        "image": "nail_gun.png"
     },
     {
-        "id": 10,
-        "name": "Shark Gun",
-        "rarity": "common",
-        "image": "shark_gun.png"
-    },
-    {
-        "id": 11,
+        "id": 4,
         "name": "PumpkinLatte",
         "rarity": "common",
         "image": "pumpkinlatte.png"
     },
     {
-        "id": 12,
-        "name": "Flint Gun",
+        "id": 5,
+        "name": "Revolver_Default",
         "rarity": "common",
-        "image": "flint_gun.png"
+        "image": "revolver_default.png"
+    },
+    {
+        "id": 6,
+        "name": "Ribs Gun",
+        "rarity": "common",
+        "image": "ribs_gun.png"
+    },
+    {
+        "id": 7,
+        "name": "Seagun",
+        "rarity": "common",
+        "image": "seagun.png"
+    },
+    {
+        "id": 8,
+        "name": "Shark Gun",
+        "rarity": "common",
+        "image": "shark_gun.png"
+    },
+    {
+        "id": 9,
+        "name": "Sound Gun",
+        "rarity": "common",
+        "image": "sound_gun.png"
+    },
+    {
+        "id": 10,
+        "name": "Witch Pistol",
+        "rarity": "common",
+        "image": "witch_pistol.png"
     },
 
     {
+        "id": 11,
+        "name": "Sweetheart",
+        "rarity": "uncommon",
+        "image": "sweetheart.png"
+    },
+
+    {
+        "id": 12,
+        "name": "4MyValentine",
+        "rarity": "rare",
+        "image": "4myvalentine.png"
+    },
+    {
         "id": 13,
+        "name": "Bop Gun",
+        "rarity": "rare",
+        "image": "bop_gun.png"
+    },
+    {
+        "id": 14,
+        "name": "DoubleCannon",
+        "rarity": "rare",
+        "image": "doublecannon.png"
+    },
+    {
+        "id": 15,
+        "name": "FleshShooter",
+        "rarity": "rare",
+        "image": "fleshshooter.png"
+    },
+    {
+        "id": 16,
+        "name": "GiftWrap",
+        "rarity": "rare",
+        "image": "giftwrap.png"
+    },
+    {
+        "id": 17,
+        "name": "Harpon Gun",
+        "rarity": "rare",
+        "image": "harpon_gun.png"
+    },
+    {
+        "id": 18,
+        "name": "PumpkinPopper",
+        "rarity": "rare",
+        "image": "pumpkinpopper.png"
+    },
+    {
+        "id": 19,
+        "name": "Water Gun",
+        "rarity": "rare",
+        "image": "water_gun.png"
+    },
+
+    {
+        "id": 20,
         "name": "Assault Gun",
         "rarity": "legendary",
         "image": "assault_gun.png"
     },
     {
-        "id": 14,
+        "id": 21,
         "name": "FlatLine",
         "rarity": "legendary",
         "image": "flatline.png"
     },
-
     {
-        "id": 15,
-        "name": "CosmicSniper",
-        "rarity": "ancient",
-        "image": "cosmic_sniper.png"
+        "id": 22,
+        "name": "NightWeaver",
+        "rarity": "legendary",
+        "image": "nightweaver.png"
     },
     {
-        "id": 16,
+        "id": 23,
+        "name": "PhantomGreen",
+        "rarity": "legendary",
+        "image": "phantomgreen.png"
+    },
+    {
+        "id": 24,
+        "name": "Skull Gun",
+        "rarity": "legendary",
+        "image": "skull_gun.png"
+    },
+    {
+        "id": 25,
+        "name": "WW2 Gun",
+        "rarity": "legendary",
+        "image": "ww2_gun.png"
+    },
+
+    {
+        "id": 26,
+        "name": "ConfettiShotgun",
+        "rarity": "mythic",
+        "image": "confettishotgun.png"
+    },
+    {
+        "id": 27,
+        "name": "CrossBow",
+        "rarity": "mythic",
+        "image": "crossbow.png"
+    },
+    {
+        "id": 28,
+        "name": "DragonAR",
+        "rarity": "mythic",
+        "image": "dragonar.png"
+    },
+    {
+        "id": 29,
+        "name": "DragonLauncher",
+        "rarity": "mythic",
+        "image": "dragonlauncher.png"
+    },
+    {
+        "id": 30,
+        "name": "DragonTail Gun",
+        "rarity": "mythic",
+        "image": "dragon_tail_gun.png"
+    },
+    {
+        "id": 31,
+        "name": "Fire Gun",
+        "rarity": "mythic",
+        "image": "fire_gun.png"
+    },
+    {
+        "id": 32,
+        "name": "FireworkPistol",
+        "rarity": "mythic",
+        "image": "fireworkpistol.png"
+    },
+    {
+        "id": 33,
+        "name": "Ghoulfire",
+        "rarity": "mythic",
+        "image": "ghoulfire.png"
+    },
+    {
+        "id": 34,
+        "name": "IceSniper",
+        "rarity": "mythic",
+        "image": "icesniper.png"
+    },
+    {
+        "id": 35,
+        "name": "MagicSniper",
+        "rarity": "mythic",
+        "image": "magicsniper.png"
+    },
+    {
+        "id": 36,
+        "name": "PumpkinCannon",
+        "rarity": "mythic",
+        "image": "pumpkincannon.png"
+    },
+    {
+        "id": 37,
+        "name": "RainbowHandgun",
+        "rarity": "mythic",
+        "image": "rainbowhandgun.png"
+    },
+    {
+        "id": 38,
+        "name": "SafariSniper",
+        "rarity": "mythic",
+        "image": "safarisniper.png"
+    },
+
+    {
+        "id": 39,
         "name": "Abyssal Gun",
         "rarity": "ancient",
         "image": "abyssal_gun.png"
     },
     {
-        "id": 17,
+        "id": 40,
         "name": "AbyssalSniper",
         "rarity": "ancient",
         "image": "abyssal_sniper.png"
     },
     {
-        "id": 18,
-        "name": "CosmicHandgun",
-        "rarity": "ancient",
-        "image": "cosmic_handgun.png"
-    },
-    {
-        "id": 19,
-        "name": "GoldenEagle",
-        "rarity": "ancient",
-        "image": "golden_eagle.png"
-    },
-    {
-        "id": 20,
-        "name": "LoveBazooka",
-        "rarity": "ancient",
-        "image": "love_bazooka.png"
-    },
-    {
-        "id": 28,
-        "name": "FlatLine5",
-        "rarity": "ancient",
-        "image": "flatline.png"
-    },
-    {
-        "id": 27,
-        "name": "FlatLine4",
-        "rarity": "ancient",
-        "image": "flatline.png"
-    },
-    {
-        "id": 21,
+        "id": 41,
         "name": "ArachnidArbalest",
         "rarity": "ancient",
         "image": "arachnid_arbalest.png"
     },
     {
-        "id": 22,
-        "name": "Solarbite Gun",
+        "id": 42,
+        "name": "CosmicHandgun",
         "rarity": "ancient",
-        "image": "solarbite_gun.png"
+        "image": "cosmic_handgun.png"
     },
     {
-        "id": 23,
+        "id": 43,
+        "name": "CosmicSniper",
+        "rarity": "ancient",
+        "image": "cosmic_sniper.png"
+    },
+    {
+        "id": 44,
+        "name": "Dragon Gun",
+        "rarity": "ancient",
+        "image": "dragon_gun.png"
+    },
+    {
+        "id": 45,
         "name": "EternalBow",
         "rarity": "ancient",
         "image": "eternal_bow.png"
     },
     {
-        "id": 24,
-        "name": "FlatLine",
-        "rarity": "legendary",
-        "image": "flatline.png"
+        "id": 46,
+        "name": "GoldenEagle",
+        "rarity": "ancient",
+        "image": "golden_eagle.png"
     },
     {
-        "id": 25,
-        "name": "FlatLine2",
-        "rarity": "legendary",
-        "image": "flatline.png"
+        "id": 47,
+        "name": "LoveBazooka",
+        "rarity": "ancient",
+        "image": "love_bazooka.png"
     },
     {
-        "id": 26,
-        "name": "FlatLine3",
-        "rarity": "legendary",
-        "image": "flatline.png"
+        "id": 48,
+        "name": "MadLove",
+        "rarity": "ancient",
+        "image": "madlove.png"
+    },
+    {
+        "id": 49,
+        "name": "Pine Gun",
+        "rarity": "ancient",
+        "image": "pine_gun.png"
+    },
+    {
+        "id": 50,
+        "name": "Solarbite Gun",
+        "rarity": "ancient",
+        "image": "solarbite_gun.png"
     }
 ]
