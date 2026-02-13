@@ -138,5 +138,11 @@
         "name": "EternalBow",
         "rarity": "ancient",
         "image": "eternal_bow.png"
+    },
+    {
+        "id": 24,
+        "name": "FlatLine",
+        "rarity": "legendary",
+        "image": "flatline.png"
     }
 ]
