@@ -342,34 +342,9 @@ body {
 .card[data-rarity="mythic"] .rarity-badge { background: var(--mythic); }
 .card[data-rarity="ancient"] .rarity-badge { background: var(--ancient); }
 
-.skeleton {
-    background: #1f1f1f;
-    border-radius: 16px;
-    min-height: 220px;
-    overflow: hidden;
-    position: relative;
-}
-
-.skeleton::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: -150%;
-    width: 50%;
-    height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.08), transparent);
-    animation: loading 1.6s infinite;
-}
-
-@keyframes loading {
-    0% { transform: translateX(-100%); }
-    100% { transform: translateX(400%); }
-}
-
 @media (prefers-reduced-motion: reduce) {
-    .card, .skeleton::after {
+    .card {
         transition: none;
-        animation: none;
     }
 }
 
@@ -488,36 +463,6 @@ body {
     font-size: 13px;
     font-weight: 800;
     margin-bottom: 32px;
-}
-
-.modal-actions {
-    display: flex;
-    gap: 12px;
-}
-
-.modal-action-button {
-    flex: 1;
-    padding: 18px;
-    border-radius: 999px;
-    font-weight: 700;
-    font-size: 15px;
-    cursor: pointer;
-    transition: all 0.3s;
-}
-
-.modal-action-button.primary {
-    background: var(--accent);
-    color: #000;
-}
-
-.modal-action-button.secondary {
-    background: #222;
-    color: white;
-    border: 2px solid #333;
-}
-
-.modal-action-button:hover {
-    transform: scale(1.03);
 }
 
 .main-footer {
