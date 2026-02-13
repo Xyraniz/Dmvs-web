@@ -109,16 +109,6 @@ function createCard(item) {
     return card;
 }
 
-function renderSkeletons(count) {
-    const container = document.getElementById('skeleton-container');
-    container.innerHTML = '';
-    for (let i = 0; i < count; i++) {
-        const sk = document.createElement('div');
-        sk.className = 'skeleton';
-        container.appendChild(sk);
-    }
-}
-
 function clearGrid() {
     const grid = document.getElementById('grid');
     grid.innerHTML = '';
@@ -165,7 +155,6 @@ function filterAndRender() {
     if (filteredData.length === 0) {
         document.getElementById('empty-state').classList.remove('hidden');
         document.getElementById('grid').classList.add('hidden');
-        document.getElementById('skeleton-container').classList.add('hidden');
         updateLoadMore();
         updateStatus(0);
         return;
@@ -296,7 +285,6 @@ function restoreState() {
 
 async function loadData() {
     const jsonUrl = `../data/${currentCategory}.json`;
-    const skel = document.getElementById('skeleton-container');
     const err = document.getElementById('error-state');
     const grid = document.getElementById('grid');
     const empty = document.getElementById('empty-state');
@@ -304,13 +292,10 @@ async function loadData() {
     err.classList.add('hidden');
     empty.classList.add('hidden');
     grid.classList.add('hidden');
-    skel.classList.remove('hidden');
-    renderSkeletons(12);
 
     try {
         const rawData = await fetchData(jsonUrl);
         allData = rawData.filter(validateItem);
-        skel.classList.add('hidden');
         restoreState();
         filterAndRender();
         if (allData.length > CONFIG.PAGE_SIZE) {
@@ -322,7 +307,7 @@ async function loadData() {
             }
         }, 120);
     } catch (e) {
-        skel.classList.add('hidden');
+        grid.classList.add('hidden');
         err.classList.remove('hidden');
     }
 }
