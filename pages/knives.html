@@ -1,0 +1,61 @@
+=== pages/knives.html ===
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Synergy Team | Dmvs - Catálogo de Cuchillos">
+    <title>Synergy Team | Dmvs - Knives</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header class="catalog-header">
+        <a href="../index.html" class="back-button" aria-label="Volver al menú">
+            ← VOLVER
+        </a>
+        <div class="logo">SYN<span class="accent">ERGY</span> TEAM</div>
+        <h1 id="category-title" class="category-title">KNIVES</h1>
+    </header>
+
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="Buscar por nombre..." aria-label="Buscar items en el catálogo">
+        <div id="search-status" class="search-status" aria-live="polite"></div>
+    </div>
+
+    <div id="skeleton-container" class="grid skeleton-grid"></div>
+    <div id="grid" class="grid"></div>
+
+    <div id="load-more-container" class="load-more-container">
+        <button id="load-more-button" class="load-more-button">CARGAR MÁS</button>
+    </div>
+
+    <div id="empty-state" class="empty-state hidden">
+        <p>No se encontraron resultados</p>
+        <button id="clear-search" class="clear-button">LIMPIAR BÚSQUEDA</button>
+    </div>
+
+    <div id="error-state" class="error-state hidden">
+        <p>Hubo un error al cargar el catálogo</p>
+        <button id="retry-button" class="retry-button">REINTENTAR</button>
+    </div>
+
+    <div id="modal" class="modal hidden">
+        <div class="modal-content">
+            <button id="modal-close" class="modal-close" aria-label="Cerrar">✕</button>
+            <div class="modal-image-container">
+                <img id="modal-image" alt="">
+            </div>
+            <div class="modal-info">
+                <h2 id="modal-name"></h2>
+                <span id="modal-rarity" class="modal-rarity-badge"></span>
+                <div class="modal-actions">
+                    <button class="modal-action-button">EQUIPAR</button>
+                    <button class="modal-action-button secondary">COMPARTIR</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="../js/app.js"></script>
+</body>
+</html>
