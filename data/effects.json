@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Bat Storm",
+        "rarity": "common",
+        "image": "bat_storm.png"
+    },
+    {
+        "id": 2,
+        "name": "Featherlight",
+        "rarity": "rare",
+        "image": "featherlight.png"
+    },
+    {
+        "id": 3,
+        "name": "LoveExplosion",
+        "rarity": "legendary",
+        "image": "loveexplosion.png"
+    },
+    {
+        "id": 4,
+        "name": "Heartache",
+        "rarity": "ancient",
+        "image": "heartache.png"
+    }
+]
