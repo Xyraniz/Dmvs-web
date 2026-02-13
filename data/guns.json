@@ -144,5 +144,11 @@
         "name": "FlatLine",
         "rarity": "legendary",
         "image": "flatline.png"
+    },
+    {
+        "id": 25,
+        "name": "FlatLine2",
+        "rarity": "legendary",
+        "image": "flatline.png"
     }
 ]
