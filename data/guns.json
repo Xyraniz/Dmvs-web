@@ -122,6 +122,12 @@
         "image": "love_bazooka.png"
     },
     {
+        "id": 27,
+        "name": "FlatLine4",
+        "rarity": "ancient",
+        "image": "flatline.png"
+    },
+    {
         "id": 21,
         "name": "ArachnidArbalest",
         "rarity": "ancient",
@@ -155,12 +161,6 @@
         "id": 26,
         "name": "FlatLine3",
         "rarity": "legendary",
-        "image": "flatline.png"
-    },
-    {
-        "id": 27,
-        "name": "FlatLine4",
-        "rarity": "ancient",
         "image": "flatline.png"
     }
 ]
