@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "name": "Katana",
+        "rarity": "common",
+        "image": "katana.png"
+    },
+    {
+        "id": 2,
+        "name": "Sickle",
+        "rarity": "common",
+        "image": "sickle.png"
+    },
+    {
+        "id": 3,
+        "name": "Plunger",
+        "rarity": "common",
+        "image": "plunger.png"
+    },
+    {
+        "id": 4,
+        "name": "Haunted Sword",
+        "rarity": "common",
+        "image": "haunted_sword.png"
+    },
+    {
+        "id": 5,
+        "name": "BooBreaker",
+        "rarity": "common",
+        "image": "boobreaker.png"
+    },
+    {
+        "id": 6,
+        "name": "Titan Sword",
+        "rarity": "common",
+        "image": "titan_sword.png"
+    },
+    {
+        "id": 7,
+        "name": "BasicSai",
+        "rarity": "common",
+        "image": "basic_sai.png"
+    },
+
+    {
+        "id": 8,
+        "name": "RosesAreRed",
+        "rarity": "legendary",
+        "image": "roses_are_red.png"
+    },
+
+    {
+        "id": 9,
+        "name": "Cosmic Sword",
+        "rarity": "ancient",
+        "image": "cosmic_sword.png"
+    },
+    {
+        "id": 10,
+        "name": "Dragon Sword",
+        "rarity": "ancient",
+        "image": "dragon_sword.png"
+    },
+    {
+        "id": 11,
+        "name": "Solarbite Sword",
+        "rarity": "ancient",
+        "image": "solarbite_sword.png"
+    },
+    {
+        "id": 12,
+        "name": "Demonspire Sword",
+        "rarity": "ancient",
+        "image": "demonspire_sword.png"
+    },
+    {
+        "id": 13,
+        "name": "EagleEyes",
+        "rarity": "ancient",
+        "image": "eagleeyes.png"
+    },
+    {
+        "id": 14,
+        "name": "Anime Sword",
+        "rarity": "ancient",
+        "image": "anime_sword.png"
+    }
+]
