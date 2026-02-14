@@ -9,6 +9,8 @@
     --legendary: #cf1719;
     --mythic: #c90cbc;
     --ancient: #790fa1;
+    --unknown: #512da8; /* Mysterious deep purple */
+    --special: #ffd700; /* Gold-like yellow */
     --gap: 16px;
 }
 
@@ -341,6 +343,8 @@ body {
 .card[data-rarity="legendary"] .rarity-badge { background: var(--legendary); }
 .card[data-rarity="mythic"] .rarity-badge { background: var(--mythic); }
 .card[data-rarity="ancient"] .rarity-badge { background: var(--ancient); }
+.card[data-rarity="unknown"] .rarity-badge { background: var(--unknown); }
+.card[data-rarity="special"] .rarity-badge { background: var(--special); }
 
 @media (prefers-reduced-motion: reduce) {
     .card {
