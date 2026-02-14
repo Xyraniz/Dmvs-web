@@ -1,26 +1,104 @@
 [
-    {
-        "id": 1,
-        "name": "Bat Storm",
-        "rarity": "common",
-        "image": "bat_storm.png"
-    },
-    {
-        "id": 2,
-        "name": "Featherlight",
-        "rarity": "rare",
-        "image": "featherlight.png"
-    },
-    {
-        "id": 3,
-        "name": "LoveExplosion",
-        "rarity": "legendary",
-        "image": "loveexplosion.png"
-    },
-    {
-        "id": 4,
-        "name": "Heartache",
-        "rarity": "ancient",
-        "image": "heartache.png"
-    }
+  {
+    "id": 1,
+    "name": "Batstorm",
+    "rarity": "common",
+    "image": "batstorm.png"
+  },
+  {
+    "id": 2,
+    "name": "Default Effect",
+    "rarity": "common",
+    "image": "default_effect.png"
+  },
+  {
+    "id": 3,
+    "name": "Ghosted",
+    "rarity": "common",
+    "image": "ghosted.png"
+  },
+  {
+    "id": 4,
+    "name": "Pumpkin Curse",
+    "rarity": "common",
+    "image": "pumpkin_curse.png"
+  },
+  {
+    "id": 5,
+    "name": "Soul Reaper",
+    "rarity": "common",
+    "image": "soul_reaper.png"
+  },
+  {
+    "id": 6,
+    "name": "Decorated",
+    "rarity": "uncommon",
+    "image": "decorated.png"
+  },
+  {
+    "id": 7,
+    "name": "Freeze",
+    "rarity": "uncommon",
+    "image": "freeze.png"
+  },
+  {
+    "id": 8,
+    "name": "Candy Cane",
+    "rarity": "rare",
+    "image": "candy_cane.png"
+  },
+  {
+    "id": 9,
+    "name": "Featherlight",
+    "rarity": "rare",
+    "image": "featherlight.png"
+  },
+  {
+    "id": 10,
+    "name": "Santa Claus",
+    "rarity": "rare",
+    "image": "santa_claus.png"
+  },
+  {
+    "id": 11,
+    "name": "Snow Man",
+    "rarity": "rare",
+    "image": "snow_man.png"
+  },
+  {
+    "id": 12,
+    "name": "Confetti",
+    "rarity": "legendary",
+    "image": "confetti.png"
+  },
+  {
+    "id": 13,
+    "name": "Gifted",
+    "rarity": "legendary",
+    "image": "gifted.png"
+  },
+  {
+    "id": 14,
+    "name": "Love Explosion",
+    "rarity": "legendary",
+    "image": "love_explosion.png"
+  },
+  {
+    "id": 15,
+    "name": "Frostbite",
+    "rarity": "mythic",
+    "image": "frostbite.png"
+  },
+  {
+    "id": 16,
+    "name": "Heartbeat",
+    "rarity": "mythic",
+    "image": "heartbeat.png"
+  },
+  {
+    "id": 17,
+    "name": "Heartache",
+    "rarity": "ancient",
+    "image": "heartache.png"
+  }
 ]
