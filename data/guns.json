@@ -19,231 +19,231 @@
   },
   {
     "id": 4,
-    "name": "Double Barrel Japanese Gun",
-    "rarity": "common",
-    "image": "double_barrel_japanese_gun.png"
-  },
-  {
-    "id": 5,
     "name": "Default Gun",
     "rarity": "common",
     "image": "default_gun.png"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Flare Gun",
     "rarity": "common",
     "image": "flare_gun.png"
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Flint Gun",
     "rarity": "common",
     "image": "flint_gun.png"
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "Injection",
     "rarity": "common",
     "image": "injection.png"
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Nail Gun",
     "rarity": "common",
     "image": "nail_gun.png"
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Pumpkin Latte",
     "rarity": "common",
     "image": "pumpkin_latte.png"
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "Ribs Gun",
     "rarity": "common",
     "image": "ribs_gun.png"
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "Revolver Default",
     "rarity": "common",
     "image": "revolver_default.png"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Seagun",
     "rarity": "common",
     "image": "seagun.png"
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "Shark Gun",
     "rarity": "common",
     "image": "shark_gun.png"
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "Sound Gun",
     "rarity": "common",
     "image": "sound_gun.png"
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "Witch Pistol",
     "rarity": "common",
     "image": "witch_pistol.png"
   },
   {
-    "id": 17,
+    "id": 16,
     "name": "Sweetheart",
     "rarity": "uncommon",
     "image": "sweetheart.png"
   },
   {
-    "id": 18,
+    "id": 17,
     "name": "4 My Valentine",
     "rarity": "rare",
     "image": "4_my_valentine.png"
   },
   {
-    "id": 19,
+    "id": 18,
     "name": "Bop Gun",
     "rarity": "rare",
     "image": "bop_gun.png"
   },
   {
-    "id": 20,
+    "id": 19,
     "name": "Christmas Ball",
     "rarity": "rare",
     "image": "christmas_ball.png"
   },
   {
-    "id": 21,
+    "id": 20,
     "name": "Circus Gun",
     "rarity": "rare",
     "image": "circus_gun.png"
   },
   {
-    "id": 22,
+    "id": 21,
     "name": "Double Cannon",
     "rarity": "rare",
     "image": "double_cannon.png"
   },
   {
-    "id": 23,
+    "id": 22,
     "name": "Flesh Shooter",
     "rarity": "rare",
     "image": "flesh_shooter.png"
   },
   {
-    "id": 24,
+    "id": 23,
     "name": "Gift Wrap",
     "rarity": "rare",
     "image": "gift_wrap.png"
   },
   {
-    "id": 25,
+    "id": 24,
     "name": "Gold Night",
     "rarity": "rare",
     "image": "gold_night.png"
   },
   {
-    "id": 26,
+    "id": 25,
     "name": "Harpon Gun",
     "rarity": "rare",
     "image": "harpon_gun.png"
   },
   {
-    "id": 27,
+    "id": 26,
     "name": "Midnight Blue",
     "rarity": "rare",
     "image": "midnight_blue.png"
   },
   {
-    "id": 28,
+    "id": 27,
     "name": "Pumpkin Popper",
     "rarity": "rare",
     "image": "pumpkin_popper.png"
   },
   {
-    "id": 29,
+    "id": 28,
     "name": "Sugar Rush",
     "rarity": "rare",
     "image": "sugar_rush.png"
   },
   {
-    "id": 30,
+    "id": 29,
     "name": "Water Gun",
     "rarity": "rare",
     "image": "water_gun.png"
   },
   {
-    "id": 31,
+    "id": 30,
     "name": "Whool",
     "rarity": "rare",
     "image": "whool.png"
   },
   {
-    "id": 32,
+    "id": 31,
     "name": "Assault Gun",
     "rarity": "legendary",
     "image": "assault_gun.png"
   },
   {
-    "id": 33,
+    "id": 32,
     "name": "Flat Line",
     "rarity": "legendary",
     "image": "flat_line.png"
   },
   {
-    "id": 34,
+    "id": 33,
     "name": "Japan Gun",
     "rarity": "legendary",
     "image": "japan_gun.png"
   },
   {
-    "id": 35,
+    "id": 34,
     "name": "Night Weaver",
     "rarity": "legendary",
     "image": "night_weaver.png"
   },
   {
-    "id": 36,
+    "id": 35,
     "name": "Phantom Green",
     "rarity": "legendary",
     "image": "phantom_green.png"
   },
   {
-    "id": 37,
+    "id": 36,
     "name": "Skull Gun",
     "rarity": "legendary",
     "image": "skull_gun.png"
   },
   {
-    "id": 38,
+    "id": 37,
     "name": "WW2 Gun",
     "rarity": "legendary",
     "image": "ww2_gun.png"
   },
   {
-    "id": 39,
+    "id": 38,
     "name": "Candy Distributor",
     "rarity": "mythic",
     "image": "candy_distributor.png"
   },
   {
-    "id": 40,
+    "id": 39,
     "name": "Confetti Shotgun",
     "rarity": "mythic",
     "image": "confetti_shotgun.png"
   },
   {
-    "id": 41,
+    "id": 40,
     "name": "Cross Bow",
     "rarity": "mythic",
     "image": "cross_bow.png"
+  },
+  {
+    "id": 41,
+    "name": "Double Barrel Japanese Gun",
+    "rarity": "mythic",
+    "image": "double_barrel_japanese_gun.png"
   },
   {
     "id": 42,
