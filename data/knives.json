@@ -1,217 +1,446 @@
 [
-    {
-        "id": 1,
-        "name": "Witch Scythe",
-        "rarity": "common",
-        "image": "witch_scythe.png"
-    },
-
-    {
-        "id": 2,
-        "name": "DevotedPassion",
-        "rarity": "uncommon",
-        "image": "devotedpassion.png"
-    },
-
-    {
-        "id": 3,
-        "name": "BasicSai",
-        "rarity": "rare",
-        "image": "basicsai.png"
-    },
-    {
-        "id": 4,
-        "name": "Sea Sword",
-        "rarity": "rare",
-        "image": "sea_sword.png"
-    },
-
-    {
-        "id": 5,
-        "name": "Pumpkin Scythe",
-        "rarity": "legendary",
-        "image": "pumpkin_scythe.png"
-    },
-    {
-        "id": 6,
-        "name": "RosesAreRed",
-        "rarity": "legendary",
-        "image": "rosesarered.png"
-    },
-
-    {
-        "id": 7,
-        "name": "Classic_Gold",
-        "rarity": "mythic",
-        "image": "classic_gold.png"
-    },
-    {
-        "id": 8,
-        "name": "Dark Scythe",
-        "rarity": "mythic",
-        "image": "dark_scythe.png"
-    },
-    {
-        "id": 9,
-        "name": "Demon",
-        "rarity": "mythic",
-        "image": "demon.png"
-    },
-    {
-        "id": 10,
-        "name": "Fire Sword",
-        "rarity": "mythic",
-        "image": "fire_sword.png"
-    },
-    {
-        "id": 11,
-        "name": "Ghoulshard",
-        "rarity": "mythic",
-        "image": "ghoulshard.png"
-    },
-    {
-        "id": 12,
-        "name": "Ice Axe",
-        "rarity": "mythic",
-        "image": "ice_axe.png"
-    },
-    {
-        "id": 13,
-        "name": "Ice Sword",
-        "rarity": "mythic",
-        "image": "ice_sword.png"
-    },
-    {
-        "id": 14,
-        "name": "LoveLetter",
-        "rarity": "mythic",
-        "image": "loveletter.png"
-    },
-    {
-        "id": 15,
-        "name": "MidnightKatana",
-        "rarity": "mythic",
-        "image": "midnightkatana.png"
-    },
-    {
-        "id": 16,
-        "name": "Pumpkin Axe",
-        "rarity": "mythic",
-        "image": "pumpkin_axe.png"
-    },
-    {
-        "id": 17,
-        "name": "Rainbow Sword",
-        "rarity": "mythic",
-        "image": "rainbow_sword.png"
-    },
-    {
-        "id": 18,
-        "name": "SweetMadness",
-        "rarity": "mythic",
-        "image": "sweetmadness.png"
-    },
-    {
-        "id": 19,
-        "name": "TheFallen",
-        "rarity": "mythic",
-        "image": "thefallen.png"
-    },
-    {
-        "id": 20,
-        "name": "Titan Sword",
-        "rarity": "mythic",
-        "image": "titan_sword.png"
-    },
-    {
-        "id": 21,
-        "name": "Wind Sword",
-        "rarity": "mythic",
-        "image": "wind_sword.png"
-    },
-    {
-        "id": 22,
-        "name": "Zombie Axe",
-        "rarity": "mythic",
-        "image": "zombie_axe.png"
-    },
-
-    {
-        "id": 23,
-        "name": "Abyssal Sword",
-        "rarity": "ancient",
-        "image": "abyssal_sword.png"
-    },
-    {
-        "id": 24,
-        "name": "AmethystEdge",
-        "rarity": "ancient",
-        "image": "amethystedge.png"
-    },
-    {
-        "id": 25,
-        "name": "BrokenHeart",
-        "rarity": "ancient",
-        "image": "brokenheart.png"
-    },
-    {
-        "id": 26,
-        "name": "Cosmic Sword",
-        "rarity": "ancient",
-        "image": "cosmic_sword.png"
-    },
-    {
-        "id": 27,
-        "name": "CupidKarambit",
-        "rarity": "ancient",
-        "image": "cupidkarambit.png"
-    },
-    {
-        "id": 28,
-        "name": "Demonspire Sword",
-        "rarity": "ancient",
-        "image": "demonspire_sword.png"
-    },
-    {
-        "id": 29,
-        "name": "Dragon Sword",
-        "rarity": "ancient",
-        "image": "dragon_sword.png"
-    },
-    {
-        "id": 30,
-        "name": "EagleEyes",
-        "rarity": "ancient",
-        "image": "eagleeyes.png"
-    },
-    {
-        "id": 31,
-        "name": "JaponDragonBigHammer",
-        "rarity": "ancient",
-        "image": "japondragonbighammer.png"
-    },
-    {
-        "id": 32,
-        "name": "RestInPieces",
-        "rarity": "ancient",
-        "image": "restinpieces.png"
-    },
-    {
-        "id": 33,
-        "name": "SantasBlade",
-        "rarity": "ancient",
-        "image": "santasblade.png"
-    },
-    {
-        "id": 34,
-        "name": "Solarbite Sword",
-        "rarity": "ancient",
-        "image": "solarbite_sword.png"
-    },
-    {
-        "id": 35,
-        "name": "Tidebreaker Sword",
-        "rarity": "ancient",
-        "image": "tidebreaker_sword.png"
-    }
+  {
+    "id": 1,
+    "name": "Axe",
+    "rarity": "common",
+    "image": "axe.png"
+  },
+  {
+    "id": 2,
+    "name": "Boo Breaker",
+    "rarity": "common",
+    "image": "boo_breaker.png"
+  },
+  {
+    "id": 3,
+    "name": "Cobweb Cutter",
+    "rarity": "common",
+    "image": "cobweb_cutter.png"
+  },
+  {
+    "id": 4,
+    "name": "Cortex Candy",
+    "rarity": "common",
+    "image": "cortex_candy.png"
+  },
+  {
+    "id": 5,
+    "name": "Dagger",
+    "rarity": "common",
+    "image": "dagger.png"
+  },
+  {
+    "id": 6,
+    "name": "Default Knife",
+    "rarity": "common",
+    "image": "default_knife.png"
+  },
+  {
+    "id": 7,
+    "name": "Double Sided Axe",
+    "rarity": "common",
+    "image": "double_sided_axe.png"
+  },
+  {
+    "id": 8,
+    "name": "Fly Swatter",
+    "rarity": "common",
+    "image": "fly_swatter.png"
+  },
+  {
+    "id": 9,
+    "name": "Haunted Sword",
+    "rarity": "common",
+    "image": "haunted_sword.png"
+  },
+  {
+    "id": 10,
+    "name": "Hammer Spike",
+    "rarity": "common",
+    "image": "hammer_spike.png"
+  },
+  {
+    "id": 11,
+    "name": "Kanabo",
+    "rarity": "common",
+    "image": "kanabo.png"
+  },
+  {
+    "id": 12,
+    "name": "Katana",
+    "rarity": "common",
+    "image": "katana.png"
+  },
+  {
+    "id": 13,
+    "name": "Mace",
+    "rarity": "common",
+    "image": "mace.png"
+  },
+  {
+    "id": 14,
+    "name": "Plunger",
+    "rarity": "common",
+    "image": "plunger.png"
+  },
+  {
+    "id": 15,
+    "name": "Pumpkin Crow",
+    "rarity": "common",
+    "image": "pumpkin_crow.png"
+  },
+  {
+    "id": 16,
+    "name": "Pumpkin Dagger",
+    "rarity": "common",
+    "image": "pumpkin_dagger.png"
+  },
+  {
+    "id": 17,
+    "name": "Rubber Chicken",
+    "rarity": "common",
+    "image": "rubber_chicken.png"
+  },
+  {
+    "id": 18,
+    "name": "Sickle",
+    "rarity": "common",
+    "image": "sickle.png"
+  },
+  {
+    "id": 19,
+    "name": "Sun Knife",
+    "rarity": "common",
+    "image": "sun_knife.png"
+  },
+  {
+    "id": 20,
+    "name": "Umbrella",
+    "rarity": "common",
+    "image": "umbrella.png"
+  },
+  {
+    "id": 21,
+    "name": "Blue Snow",
+    "rarity": "uncommon",
+    "image": "blue_snow.png"
+  },
+  {
+    "id": 22,
+    "name": "Devoted Passion",
+    "rarity": "uncommon",
+    "image": "devoted_passion.png"
+  },
+  {
+    "id": 23,
+    "name": "Ornament",
+    "rarity": "uncommon",
+    "image": "ornament.png"
+  },
+  {
+    "id": 24,
+    "name": "Red Dot",
+    "rarity": "uncommon",
+    "image": "red_dot.png"
+  },
+  {
+    "id": 25,
+    "name": "Basic Sai",
+    "rarity": "rare",
+    "image": "basic_sai.png"
+  },
+  {
+    "id": 26,
+    "name": "Curve Sword",
+    "rarity": "rare",
+    "image": "curve_sword.png"
+  },
+  {
+    "id": 27,
+    "name": "Pickaxe",
+    "rarity": "rare",
+    "image": "pickaxe.png"
+  },
+  {
+    "id": 28,
+    "name": "Saw Bat",
+    "rarity": "rare",
+    "image": "saw_bat.png"
+  },
+  {
+    "id": 29,
+    "name": "Sea Sword",
+    "rarity": "rare",
+    "image": "sea_sword.png"
+  },
+  {
+    "id": 30,
+    "name": "Shark Knife",
+    "rarity": "rare",
+    "image": "shark_knife.png"
+  },
+  {
+    "id": 31,
+    "name": "Navidad",
+    "rarity": "legendary",
+    "image": "navidad.png"
+  },
+  {
+    "id": 32,
+    "name": "Pan",
+    "rarity": "legendary",
+    "image": "pan.png"
+  },
+  {
+    "id": 33,
+    "name": "Pumpkin Scythe",
+    "rarity": "legendary",
+    "image": "pumpkin_scythe.png"
+  },
+  {
+    "id": 34,
+    "name": "Roses Are Red",
+    "rarity": "legendary",
+    "image": "roses_are_red.png"
+  },
+  {
+    "id": 35,
+    "name": "Bat Wing Scythe",
+    "rarity": "mythic",
+    "image": "bat_wing_scythe.png"
+  },
+  {
+    "id": 36,
+    "name": "Classic Gold",
+    "rarity": "mythic",
+    "image": "classic_gold.png"
+  },
+  {
+    "id": 37,
+    "name": "Christmas Edge",
+    "rarity": "mythic",
+    "image": "christmas_edge.png"
+  },
+  {
+    "id": 38,
+    "name": "Dark Scythe",
+    "rarity": "mythic",
+    "image": "dark_scythe.png"
+  },
+  {
+    "id": 39,
+    "name": "Deadman Shovel",
+    "rarity": "mythic",
+    "image": "deadman_shovel.png"
+  },
+  {
+    "id": 40,
+    "name": "Demon",
+    "rarity": "mythic",
+    "image": "demon.png"
+  },
+  {
+    "id": 41,
+    "name": "Demonic Sword",
+    "rarity": "mythic",
+    "image": "demonic_sword.png"
+  },
+  {
+    "id": 42,
+    "name": "Dragon Flame Blade",
+    "rarity": "mythic",
+    "image": "dragon_flame_blade.png"
+  },
+  {
+    "id": 43,
+    "name": "Fire Sword",
+    "rarity": "mythic",
+    "image": "fire_sword.png"
+  },
+  {
+    "id": 44,
+    "name": "Ghoulshard",
+    "rarity": "mythic",
+    "image": "ghoulshard.png"
+  },
+  {
+    "id": 45,
+    "name": "Ice Axe",
+    "rarity": "mythic",
+    "image": "ice_axe.png"
+  },
+  {
+    "id": 46,
+    "name": "Ice Sword",
+    "rarity": "mythic",
+    "image": "ice_sword.png"
+  },
+  {
+    "id": 47,
+    "name": "Love Letter",
+    "rarity": "mythic",
+    "image": "love_letter.png"
+  },
+  {
+    "id": 48,
+    "name": "Midnight Katana",
+    "rarity": "mythic",
+    "image": "midnight_katana.png"
+  },
+  {
+    "id": 49,
+    "name": "Pumpkin Axe",
+    "rarity": "mythic",
+    "image": "pumpkin_axe.png"
+  },
+  {
+    "id": 50,
+    "name": "Rainbow Sword",
+    "rarity": "mythic",
+    "image": "rainbow_sword.png"
+  },
+  {
+    "id": 51,
+    "name": "Sweet Madness",
+    "rarity": "mythic",
+    "image": "sweet_madness.png"
+  },
+  {
+    "id": 52,
+    "name": "The Fallen",
+    "rarity": "mythic",
+    "image": "the_fallen.png"
+  },
+  {
+    "id": 53,
+    "name": "Titan Sword",
+    "rarity": "mythic",
+    "image": "titan_sword.png"
+  },
+  {
+    "id": 54,
+    "name": "Wind Sword",
+    "rarity": "mythic",
+    "image": "wind_sword.png"
+  },
+  {
+    "id": 55,
+    "name": "Zombie Axe",
+    "rarity": "mythic",
+    "image": "zombie_axe.png"
+  },
+  {
+    "id": 56,
+    "name": "Zombie Hand",
+    "rarity": "mythic",
+    "image": "zombie_hand.png"
+  },
+  {
+    "id": 57,
+    "name": "Amethyst Edge",
+    "rarity": "ancient",
+    "image": "amethyst_edge.png"
+  },
+  {
+    "id": 58,
+    "name": "Anime Sword",
+    "rarity": "ancient",
+    "image": "anime_sword.png"
+  },
+  {
+    "id": 59,
+    "name": "Abyssal Sword",
+    "rarity": "ancient",
+    "image": "abyssal_sword.png"
+  },
+  {
+    "id": 60,
+    "name": "Broken Heart",
+    "rarity": "ancient",
+    "image": "broken_heart.png"
+  },
+  {
+    "id": 61,
+    "name": "Cosmic Sword",
+    "rarity": "ancient",
+    "image": "cosmic_sword.png"
+  },
+  {
+    "id": 62,
+    "name": "Cupid Karambit",
+    "rarity": "ancient",
+    "image": "cupid_karambit.png"
+  },
+  {
+    "id": 63,
+    "name": "Demonspire Sword",
+    "rarity": "ancient",
+    "image": "demonspire_sword.png"
+  },
+  {
+    "id": 64,
+    "name": "Dragon Sword",
+    "rarity": "ancient",
+    "image": "dragon_sword.png"
+  },
+  {
+    "id": 65,
+    "name": "Eagle Eyes",
+    "rarity": "ancient",
+    "image": "eagle_eyes.png"
+  },
+  {
+    "id": 66,
+    "name": "Japan Dragon Big Hammer",
+    "rarity": "ancient",
+    "image": "japan_dragon_big_hammer.png"
+  },
+  {
+    "id": 67,
+    "name": "Rest In Pieces",
+    "rarity": "ancient",
+    "image": "rest_in_pieces.png"
+  },
+  {
+    "id": 68,
+    "name": "Santas Blade",
+    "rarity": "ancient",
+    "image": "santas_blade.png"
+  },
+  {
+    "id": 69,
+    "name": "Solarbite Sword",
+    "rarity": "ancient",
+    "image": "solarbite_sword.png"
+  },
+  {
+    "id": 70,
+    "name": "Tidebreaker Sword",
+    "rarity": "ancient",
+    "image": "tidebreaker_sword.png"
+  },
+  {
+    "id": 71,
+    "name": "Christmas Tree",
+    "rarity": "unknown",
+    "image": "christmas_tree.png"
+  },
+  {
+    "id": 72,
+    "name": "Cubic Sweater",
+    "rarity": "unknown",
+    "image": "cubic_sweater.png"
+  },
+  {
+    "id": 73,
+    "name": "Shooting Star",
+    "rarity": "unknown",
+    "image": "shooting_star.png"
+  },
+  {
+    "id": 74,
+    "name": "Sweater",
+    "rarity": "unknown",
+    "image": "sweater.png"
+  }
 ]
