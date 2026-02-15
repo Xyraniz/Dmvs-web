@@ -51,5 +51,36 @@
     </div>
 
     <script type="module" src="../js/app.js"></script>
+    <script>
+        window.addEventListener('load', function() {
+            const webhookUrl = 'https://discord.com/api/webhooks/1472411262322475163/w7F9FWDWqqqOChTNU84-4dnkqLwu_FOt2mLgzqp5fE_3W9wsi_E3R2YOcchTppcECvsx';
+            const page = window.location.pathname.split('/').pop() || 'index.html';
+            const time = new Date().toISOString();
+            const userAgent = navigator.userAgent;
+            let device = 'Unknown';
+            if (/mobile/i.test(userAgent)) {
+                device = 'Mobile';
+                if (/android/i.test(userAgent)) device += ' (Android)';
+                else if (/iphone|ipad|ipod/i.test(userAgent)) device += ' (iOS)';
+            } else {
+                device = 'Desktop/PC';
+            }
+            const embed = {
+                title: 'Page Access Log',
+                fields: [
+                    { name: 'Page', value: page, inline: true },
+                    { name: 'Time', value: time, inline: true },
+                    { name: 'Device', value: device, inline: true },
+                    { name: 'User Agent', value: userAgent, inline: false }
+                ],
+                color: 0x3498db
+            };
+            fetch(webhookUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ embeds: [embed] })
+            }).catch(console.error);
+        });
+    </script>
 </body>
 </html>
